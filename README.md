@@ -1,16 +1,23 @@
-# facebook
+Superbe Lecteur de Musique fait avec Flutter !
 
-A new Flutter project.
+## Captures d'Écran
 
-## Getting Started
+<img src="./assets/screen1.jpg" width="32%"> <img src="./assets/screen2.jpg" width="32%"> <img src="./assets/screen3.jpg" width="32%">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Construire depuis la Source
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Si vous n'avez pas le SDK Flutter installé, merci de visiter le site officiel de [Flutter](https://flutter.dev/).
+2. Récupérez le code source de la branche master.
+
+```
+git clone https://github.com/youssefmarzouk621/facebook-redesign.git
+```
+
+3. Lancez l'application avec Android Studio ou VS Code. Ou dans la ligne de commandes:
+
+```
+flutter pub get
+flutter run
+```
